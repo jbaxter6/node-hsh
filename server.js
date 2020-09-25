@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 
 // listing routes
 app.use('/listings', require('./routes/listings'));
-app.use('/users', require('./routes/users'))
+app.use('/users', require('./routes/users'));
 
 
 

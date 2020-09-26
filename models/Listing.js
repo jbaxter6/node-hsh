@@ -28,4 +28,4 @@ module.exports = Listing;
 // A.hasOne(B, { /* options */ });
 // A.belongsTo(B, { /* options */ });
 // A.hasMany(B, { /* options */ });
-// A.belongsToMany(B, { through: 'C', /* options */ });
+// A.belongsToMany(B, { through: 'C', /* options */ })
